@@ -3,11 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"os"
-
 	"go-gin-boilerplate/config"
 	"go-gin-boilerplate/db"
 	"go-gin-boilerplate/server"
+	"os"
 )
 
 func main() {
